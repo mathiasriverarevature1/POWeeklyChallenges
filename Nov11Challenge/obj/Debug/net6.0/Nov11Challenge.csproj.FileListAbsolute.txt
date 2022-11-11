@@ -1,0 +1,15 @@
+C:\Users\heath\Desktop\Revature\POWeeklyChallenges\POWeeklyChallenges\Nov11Challenge\bin\Debug\net6.0\Nov11Challenge.exe
+C:\Users\heath\Desktop\Revature\POWeeklyChallenges\POWeeklyChallenges\Nov11Challenge\bin\Debug\net6.0\Nov11Challenge.deps.json
+C:\Users\heath\Desktop\Revature\POWeeklyChallenges\POWeeklyChallenges\Nov11Challenge\bin\Debug\net6.0\Nov11Challenge.runtimeconfig.json
+C:\Users\heath\Desktop\Revature\POWeeklyChallenges\POWeeklyChallenges\Nov11Challenge\bin\Debug\net6.0\Nov11Challenge.dll
+C:\Users\heath\Desktop\Revature\POWeeklyChallenges\POWeeklyChallenges\Nov11Challenge\bin\Debug\net6.0\Nov11Challenge.pdb
+C:\Users\heath\Desktop\Revature\POWeeklyChallenges\POWeeklyChallenges\Nov11Challenge\obj\Debug\net6.0\Nov11Challenge.csproj.AssemblyReference.cache
+C:\Users\heath\Desktop\Revature\POWeeklyChallenges\POWeeklyChallenges\Nov11Challenge\obj\Debug\net6.0\Nov11Challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\heath\Desktop\Revature\POWeeklyChallenges\POWeeklyChallenges\Nov11Challenge\obj\Debug\net6.0\Nov11Challenge.AssemblyInfoInputs.cache
+C:\Users\heath\Desktop\Revature\POWeeklyChallenges\POWeeklyChallenges\Nov11Challenge\obj\Debug\net6.0\Nov11Challenge.AssemblyInfo.cs
+C:\Users\heath\Desktop\Revature\POWeeklyChallenges\POWeeklyChallenges\Nov11Challenge\obj\Debug\net6.0\Nov11Challenge.csproj.CoreCompileInputs.cache
+C:\Users\heath\Desktop\Revature\POWeeklyChallenges\POWeeklyChallenges\Nov11Challenge\obj\Debug\net6.0\Nov11Challenge.dll
+C:\Users\heath\Desktop\Revature\POWeeklyChallenges\POWeeklyChallenges\Nov11Challenge\obj\Debug\net6.0\refint\Nov11Challenge.dll
+C:\Users\heath\Desktop\Revature\POWeeklyChallenges\POWeeklyChallenges\Nov11Challenge\obj\Debug\net6.0\Nov11Challenge.pdb
+C:\Users\heath\Desktop\Revature\POWeeklyChallenges\POWeeklyChallenges\Nov11Challenge\obj\Debug\net6.0\Nov11Challenge.genruntimeconfig.cache
+C:\Users\heath\Desktop\Revature\POWeeklyChallenges\POWeeklyChallenges\Nov11Challenge\obj\Debug\net6.0\ref\Nov11Challenge.dll
